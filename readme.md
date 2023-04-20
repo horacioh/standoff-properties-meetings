@@ -4,6 +4,7 @@
 
 - [Meeting 1](./2023-03-30.md)
 - [Meeting 2](./2023-04-06.md)
+- [Meeting 3](./2023-04-20.md)
 
 ## General topics
 
